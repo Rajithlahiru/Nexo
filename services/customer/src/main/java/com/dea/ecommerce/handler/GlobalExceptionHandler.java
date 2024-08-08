@@ -1,7 +1,6 @@
-package com.alibou.ecommerce.handler;
+package com.dea.ecommerce.handler;
 
 import com.dea.ecommerce.exeption.CustomerNotFoundException;
-import com.dea.ecommerce.handler.ErrorResponse;
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
 import org.springframework.validation.FieldError;
