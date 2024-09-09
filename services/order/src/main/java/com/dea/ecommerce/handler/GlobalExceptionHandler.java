@@ -1,7 +1,6 @@
 package com.dea.ecommerce.handler;
 
 import com.dea.ecommerce.exception.BusinessException;
-import com.dea.ecommerce.exception.ProductPurchaseException;
 import jakarta.persistence.EntityNotFoundException;
 import org.springframework.http.ResponseEntity;
 import org.springframework.validation.FieldError;
